@@ -43,4 +43,7 @@ git push origin nombre-de-la-rama
 
 # Obtener cambios del repositorio remoto
 git pull
+
+#git cheat sheet
+https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf
 ```
